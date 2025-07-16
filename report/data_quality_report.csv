@@ -1,0 +1,7 @@
+Section,Metric,Value
+Summary,Total Records,1
+Summary,Anomalies,0
+Summary,Distinct Sensors,1
+Missing,temperature,0%
+Anomalies,temperature,0%
+Coverage,sensor_1,1 hours

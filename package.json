@@ -1,0 +1,25 @@
+{
+  "name": "agri-pipeline-node",
+  "version": "1.0.0",
+  "description": "This ETL pipeline processes agricultural sensor `.parquet` files using Node.js + DuckDB.",
+  "main": "main.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "duckdb": "^1.3.2",
+    "parquetjs-lite": "^0.8.7"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
