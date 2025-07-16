@@ -65,5 +65,4 @@ agri-pipeline-node/
 ```
 
 ---
-
 # satsure_sde2_project
