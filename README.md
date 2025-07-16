@@ -66,5 +66,4 @@ agri-pipeline-node/
 
 ---
 
-Let me know if you want to ZIP this setup or publish to GitHub with README and license templates!
 # satsure_sde2_project

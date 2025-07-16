@@ -1,6 +1,5 @@
 node_modules
 report
 *.csv
-data/processed
 temp_valid.csv
 data_quality_report.csv
